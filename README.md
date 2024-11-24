@@ -1,1 +1,5 @@
-this is report for lab before mid sem
+<center>
+<p>
+this is report for labs before mid sem
+</p>
+</center>
